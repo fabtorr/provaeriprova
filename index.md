@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fabtorr/provaeriprova/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fabtorr/provaeriprova/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Attività
+La Fondazione A.R.Card Onlus, attiva da oltre 20 anni nel campo della ricerca in cardiologia con importanti studi sulla ischemia cardiaca e le cardiomiopatie, grazie ad un accordo con l’Università di Firenze è dal 2019 organicamente integrata nel Dipartimento di Medicina Sperimentale e clinica (DMSC), Dipartimento Universitario referente per il Settore MED/11- Malattie dell’apparato cardiovascolare”.
+La Fondazione ha deciso di focalizzare, in accordo col DMSC, il proprio impegno su alcune tematiche di particolare interesse: la cardiomiopatia ipertrofica, l’amiloidosi ed in particolare la cardiopatia amiloidotica, il trattamento clinico e farmacologico del paziente anziano:
+-la cardiomiopatia ipertrofica, già oggetto di interventi della Fondazione dal 2006 con varie iniziative e col supporto alla ricerca del Centro di Riferimento Regionale di Careggi;
+-l’amiloidosi (presente nell’Azienda Ospedaliera Universitaria Careggi un importante Centro di Riferimento a carattere cardio-nefrologico) con particolare attenzione alle nuove linee di trattamento della cardiomiopatia amiloidotica.
+-la popolazione anziana, seguita per molteplici aspetti: ageismo, tendenza al sottotrattamento in farmaci e cure degli anziani, monitoraggio dell’applicazione delle buone pratiche cliniche.
+La nostra Fondazione intende sostenere iniziative volte a diffondere tra i medici la conoscenza delle amiloidosi, delle cardiomiopatie per facilitare la diagnosi precoce e di promuovere la ricerca scientifica nel campo delle cardiopatie amiloidotiche e delle cardiomiopatie.
+Ricerca e formazione sono i principali vettori per progredire e migliorare la conoscenza su patologie così complesse.
+La nostra Fondazione intende incentivare le competenze sull’ invecchiamento per una assistenza sanitaria incentrata sulla persona e sulla famiglia e in grado di fornire servizi coordinati in ospedale, clinica e comunità. Questo lavoro non è né semplice né facile. Aumentare la consapevolezza e affrontare l’invecchiamento in tutto il sistema sanitario – e in tutta la nostra società – sarà fondamentale per fornire le cure che tutti noi desideriamo e meritiamo man mano che invecchiamo.
+Il nostro auspicio è che, in un esplicito rapporto di collaborazione tra pubblico e privato, aziende produttrici (farmaci e dispositivi) siano interessate a favorire la ricerca clinica e la formazione mediante una partnership collaborativa con strutture sanitarie pubbliche, con Università e con enti no-profit dedicati alla ricerca scientifica.
